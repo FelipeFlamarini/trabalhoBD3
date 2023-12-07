@@ -1,4 +1,4 @@
-const professores = [
+const todos_professores = [
   {
     nome: "Adilson Luiz da Silva",
     area: "Filosofia",
